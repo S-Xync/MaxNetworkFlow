@@ -1,6 +1,7 @@
 /*
 * Name : SaiKumar Immadi
 * Roll No : 1501058
+* https://github.com/S-Xync/MaxNetworkFlow/blob/master/MaxFlowMain.java
 */
 
 /*
@@ -9,7 +10,7 @@
   Ford-Fulkerson Algorithm for finding Maximum Flow in a Network
 */
 
-/*Program Starts from Line 168*/
+/* Program Starts from Line 171 */
 
 /*
   Read the Comments carefully.
